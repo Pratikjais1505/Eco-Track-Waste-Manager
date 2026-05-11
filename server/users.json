@@ -1,0 +1,14 @@
+[
+  {
+    "id": "1775740831328",
+    "name": "Pratik Jaiswal",
+    "email": "pj3848398@gmail.com",
+    "password": "$2b$10$Ka177tYv7ljKaw2KZRkPBOaqgWieT6W4xK2Bc4yoP1ND5HNhst8Zy"
+  },
+  {
+    "id": "1775818790165",
+    "name": "Test User",
+    "email": "test@example.com",
+    "password": "$2b$10$USzcCS3I9aS/6/3YYHF1m.O33hrCxnqXpAcGyPyjrmh3FXlmt751i"
+  }
+]
