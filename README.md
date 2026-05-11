@@ -29,7 +29,7 @@ This project is structured as a full-stack MERN application with two main compon
 
 1. **Clone the repository**
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/Pratikjais1505/Eco-Track-Waste-Manager.git
    cd Eco-Track
    ```
 
