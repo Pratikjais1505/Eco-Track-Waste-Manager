@@ -81,4 +81,4 @@ The client application will typically be available at `http://localhost:3000`.
 - **Tools**: IoT integration simulators, interactive maps
 
 Author- Pratik Kumar
-3rd Year B-Tech Student
+
