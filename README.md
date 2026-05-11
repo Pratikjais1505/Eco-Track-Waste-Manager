@@ -80,6 +80,5 @@ The client application will typically be available at `http://localhost:3000`.
 - **Database**: MongoDB
 - **Tools**: IoT integration simulators, interactive maps
 
-## License
-
-This project is licensed under the MIT License.
+Author- Pratik Kumar
+3rd Year B-Tech Student
